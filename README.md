@@ -201,6 +201,7 @@
 | <a href="https://medium.com/@akashtesla/how-to-automate-your-initial-recon-and-extend-asm-using-subscout-a52de14a2b6a">How to automate your initial recon and extend ASM using SubScout</a> |
 | <a href="https://research.aurainfosec.io/pentest/pentah0wnage/">Pentah0wnage: PreAuth RCE in Pentaho Business Analytics Server</a> |
 | <a href="https://omar0x01.medium.com/company-building-takeover-10a422385390">Full Company Building Takeover</a> |
+| <a href="https://blog.trailofbits.com/2025/09/18/use-mutation-testing-to-find-the-bugs-your-tests-dont-catch/">Use mutation testing to find the bugs your tests don</a>
 | <a href="https://sector7.computest.nl/post/202301xar/">Bad things come in large packages: .pkg signature verification bypass on macOS</a> |
 | <a href="https://blog.impalabs.com/2303_advisory_parallelsdesktop_toolgate.html">Parallels Desktop Toolgate Vulnerability</a> |
 | <a href="https://medium.com/immunefi/aurora-withdrawal-logic-error-bug-fix-review-c5b4e30a9160">Aurora Withdrawal Logic Error Bugfix Review</a> |
