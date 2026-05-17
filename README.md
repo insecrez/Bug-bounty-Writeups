@@ -606,6 +606,7 @@
 | Chained |<a href="https://z3r0tru5t.medium.com/open-redirect-to-account-takeover-f1405cbdf2d">Open Redirect to Account Takeover</a>  
 | Chained |<a href="https://ysamm.com/?p=629">Enumerate internal cached URLs which lead to data exposure</a>
 | Chained |<a href="https://ysamm.com/?p=625">Open redirect in Instagram.com ($500)</a>
+| BAC |<a href="https://patchstack.com/articles/unauthenticated-broken-authentication-vulnerability-in-wordpress-jobmonster-theme/">Unauthenticated Broken Authentication Vulnerability in WordPress Jobmonster Theme - Patchstack</a>
 | Redirect |<a href="https://g0dl3v3l.com/open-redirect-vulnerability-some-common-payloads-fd1dcd73541c">Open Redirect Vulnerability & Some Common Payloads</a>
 | BLH |<a href="https://proviesec.medium.com/broken-link-hijacking-what-it-is-and-how-to-get-bounties-with-it-ca64db6a3f74">Broken Link hijacking — What it is and how to get bounties with it!</a>
 | Recon |<a href="https://cramppet.github.io/regulator/index.html">A unique method of subdomain enumeration</a>
