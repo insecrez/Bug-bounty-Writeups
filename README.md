@@ -327,6 +327,7 @@
 | <a href="https://blog.assetnote.io/2021/08/29/exploiting-graphql/">Exploiting GraphQL</a> |
 | <a href="https://hackerone.com/reports/1091303">Low privilege user can read POS PINs via graphql and elevate his privilege</a> |
 | <a href="https://blog.doyensec.com/2021/05/20/graphql-csrf.html">That single GraphQL issue that you keep missing</a> |
+| <a href="https://www.intigriti.com/blog/business-insights/how-can-i-get-more-bug-bounty-submissions-and-higher-severity-findings">How can I get more bug bounty submissions and higher-severity findings?</a>|
 | <a href="https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/">CVE20214191: GitLab GraphQL API User Enumeration (FIXED)</a> |
 | <a href="https://medium.com/@rashahacks/idor-in-graphql-query-leaking-private-photos-of-a-million-app-2c12c7e9dea7">IDOR in GraphQL Query Leaking Private Photos of a Million $ App</a> |
 
