@@ -582,6 +582,7 @@
 | S.I.D |<a href="https://projectdiscovery.io/blog/php-http-server-source-disclosure">PHP Development Server <= 7.4.21  Remote Source Disclosure</a>
 | Functionality Bug |<a href="https://hackerone.com/reports/1102764">Lack of URL normalization renders BlockedPreviews feature ineffectual</a>
 | Bypass |<a href="https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c">Bypass Premium Account Payment (GetPocket)</a>
+| Sec-Misconfig |<a href="http://security.googleblog.com/2025/09/supporting-rowhammer-research-to.html">Supporting Rowhammer research to protect the DRAM ecosystem</a>
 | Chained |<a href="https://infosecwriteups.com/manipulating-the-websocket-handshake-to-exploit-vulnerabilities-7f8dc3504e9c">Manipulating the WebSocket handshake to exploit vulnerabilities</a>
 | Cloud |<a href="https://www.mend.io/blog/aws-targeted-by-a-package-backfill-attack/">AWS Targeted by a Package Backfill Attack</a>
 | SSPP |<a href="https://www.intruder.io/research/server-side-prototype-pollution">Detecting ServerSide Prototype Pollution</a>
