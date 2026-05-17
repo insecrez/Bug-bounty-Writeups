@@ -164,6 +164,7 @@
 | <a href="https://thexssrat.medium.com/csrf-tes-guide-for-bug-bounty-hunters-d14db3462695">CSRF Testing Guide For Bug Bounty Hunters</a> |
 | <a href="https://github.com/Hacker0x01/awesome-hacker-api-tools">A collection of hacker tools using HackerOne's API</a> |
 | <a href="https://hackerone.com/reports/414101">Vulnerabilities in exported activity WebView</a> |
+| <a href="https://www.sonarsource.com/blog/the-state-of-code-languages/"> What&#x27;s the top bug in your language? Find out in The State of Code: Languages report</a>
 | <a href="https://offsec.almond.consulting/ghostscript-cve-2023-28879.html">Shell in the Ghost: Ghostscript CVE202328879 writeup</a> |
 | <a href="https://medium.com/@Sm9l/bug-bounty-recon-horizontal-correlation-b7c81a32951a">Bug Bounty Recon: Horizontal Correlation</a> |
 | <a href="https://infosecwriteups.com/how-i-found-multiple-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-2824cd4dfab">How I Found multiple SQL Injection with FFUF and Sqlmap in a few minutes</a> |
