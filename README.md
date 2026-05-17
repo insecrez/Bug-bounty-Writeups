@@ -648,6 +648,7 @@
 | Session |<a href="https://blog.sonarsource.com/zabbix-case-study-of-unsafe-session-storage">Zabbix  A Case Study of Unsafe Session Storage </a>
 | CVE |<a href="https://github.com/hakivvi/CVE-2022-29464">WSO2 RCE (CVE202229464) exploit and writeup</a>
 | Wireless |<a href="https://boschko.ca/tenda_ac1200_router/">Vulnerabilities in Tenda's W15Ev2 AC1200 Router</a>
+| Desync |<a href="https://portswigger.net/blog/how-to-join-the-desync-endgame-practical-tips-from-pentester-tom-stacey/">How to join the desync endgame: Practical tips from pentester Tom Stacey</a>
 | CVE |<a href="https://googleprojectzero.blogspot.com/2022/12/exploiting-CVE-2022-42703-bringing-back-the-stack-attack.html">Exploiting CVE202242703  Bringing back the stack attack</a>
 
 
