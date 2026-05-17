@@ -585,6 +585,7 @@
 | Bypass |<a href="https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c">Bypass Premium Account Payment (GetPocket)</a>
 | Sec-Misconfig |<a href="http://security.googleblog.com/2025/09/supporting-rowhammer-research-to.html">Supporting Rowhammer research to protect the DRAM ecosystem</a>
 | Chained |<a href="https://infosecwriteups.com/manipulating-the-websocket-handshake-to-exploit-vulnerabilities-7f8dc3504e9c">Manipulating the WebSocket handshake to exploit vulnerabilities</a>
+| Assembly |<a href="https://zoozoo-sec.github.io/blogs/PwningWasm-BreakingXssFilters/">Pwning WebAssembly: Bypassing XSS Filters in the WASM Sandbox</a>
 | Cloud |<a href="https://www.mend.io/blog/aws-targeted-by-a-package-backfill-attack/">AWS Targeted by a Package Backfill Attack</a>
 | SSPP |<a href="https://www.intruder.io/research/server-side-prototype-pollution">Detecting ServerSide Prototype Pollution</a>
 | SSPP |<a href="https://blog.huntr.com/hunting-vulnerabilities-in-keras-model-deserialization">Hunting Vulnerabilities in Keras Model Deserialization</a>
